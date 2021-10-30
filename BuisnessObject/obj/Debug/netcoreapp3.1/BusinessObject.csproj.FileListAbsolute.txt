@@ -1,0 +1,8 @@
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessObject\bin\Debug\netcoreapp3.1\BusinessObject.deps.json
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessObject\bin\Debug\netcoreapp3.1\BusinessObject.dll
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessObject\bin\Debug\netcoreapp3.1\BusinessObject.pdb
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessObject\obj\Debug\netcoreapp3.1\BusinessObject.csprojAssemblyReference.cache
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessObject\obj\Debug\netcoreapp3.1\BusinessObject.AssemblyInfoInputs.cache
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessObject\obj\Debug\netcoreapp3.1\BusinessObject.AssemblyInfo.cs
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessObject\obj\Debug\netcoreapp3.1\BusinessObject.dll
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessObject\obj\Debug\netcoreapp3.1\BusinessObject.pdb

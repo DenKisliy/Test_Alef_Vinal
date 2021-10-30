@@ -1,0 +1,15 @@
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\bin\Debug\netcoreapp3.1\BusinessObject.dll
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\bin\Debug\netcoreapp3.1\BusinessObject.pdb
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CopyComplete
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.runtimeconfig.json
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.runtimeconfig.dev.json
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\bin\Debug\netcoreapp3.1\DataAccess.dll
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\bin\Debug\netcoreapp3.1\DataAccess.pdb
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+F:\C#\Test_Alef_Vinal\WebApp\BuisnessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb

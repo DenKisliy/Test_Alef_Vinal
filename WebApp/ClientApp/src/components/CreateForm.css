@@ -1,0 +1,33 @@
+﻿.create-form {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+    .create-form label {
+        display: inline-flex;
+        flex-direction: row;
+    }
+
+        .create-form label a {
+            width: 80px;
+            margin-right: 10px;
+            border: 1px solid transparent;
+            border-bottom-color: black;
+        }
+
+        .create-form label button, input {
+            width: 200px;
+            margin-left: auto;
+        }
+
+        .create-form label input {
+            background-color: lightgray;
+        }
+
+            .create-form label input:hover {
+                background-color: white;
+            }
+
+.create-form-button {
+    background-color: white !important;
+}

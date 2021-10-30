@@ -1,0 +1,42 @@
+﻿.update-form {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.select-form-id {
+    background-color: lightgray;
+}
+
+.update-form label {
+    display: inline-flex;
+    flex-direction: row;
+}
+
+.select-form {
+    width: 200px;
+}
+
+.update-form label a {
+    width: 80px;
+    margin-right: 10px;
+    border: 1px solid transparent;
+    border-bottom-color: black;
+}
+
+.update-form label button {
+    width: 200px;
+    margin-left: auto;
+}
+
+.update-form-button {
+    background-color: white;
+}
+
+
+.update-form label input {
+    background-color: lightgray;
+}
+
+    .update-form label input:hover {
+        background-color: white;
+    }

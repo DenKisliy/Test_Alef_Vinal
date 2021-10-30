@@ -1,0 +1,13 @@
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\bin\Debug\netcoreapp3.1\BusinessObject.dll
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\bin\Debug\netcoreapp3.1\BusinessObject.pdb
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+F:\C#\Test_Alef_Vinal\WebApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
